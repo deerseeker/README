@@ -3,6 +3,13 @@ Welcome to my profile! I'm **Daniel**, a Junior Developer on my way to become a 
 - 📖 Learning **TS** and **React**!
 - 🍤 [Zen](https://github.com/zen-browser) | [Endeavour](https://github.com/endeavouros-team)
 - 🔥 GNOME Best desktop !!
+# Some Good songs 👀
+<a href="https://Deerseeker.pythonanywhere.com/link">
+  <img
+    src="https://Deerseeker.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 ## Technologies and Languages
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
