@@ -17,5 +17,5 @@ Welcome to my profile! I'm **Daniel**, a Junior Developer on my way to become a 
 
 ##  🎵 Listening to...
 <a href="https://Deerseeker.pythonanywhere.com/link">
-  <img src="https://Deerseeker.pythonanywhere.com" alt="Current Spotify Song"/>
+  <img src="https://Deerseeker.pythonanywhere.com/?theme=dark&spin=true" alt="Current Spotify Song"/>
 </a> 
