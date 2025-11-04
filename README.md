@@ -13,7 +13,7 @@ Welcome to my profile! I'm **Daniel**, a Junior Developer on my way to become a 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Some Good songs 🎆
+## Listening right now... 🎵
 <a href="https://Deerseeker.pythonanywhere.com/link">
   <img src="https://Deerseeker.pythonanywhere.com" alt="Current Spotify Song"/>
 </a>
